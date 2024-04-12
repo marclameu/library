@@ -15,7 +15,7 @@ services:
   db:
     image: mcr.microsoft.com/mssql/server:latest
     environment:
-      SA_PASSWORD: "test$%¨&*()123"
+      SA_PASSWORD: "@Macyimmb@kkkttt1212"
       ACCEPT_EULA: "Y"
     ports:
       - "1450:1433"
